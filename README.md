@@ -1,4 +1,4 @@
-# CSCN8020 Reinforcement Learning Assignment
+# CSCN8020 Reinforcement Learning Assignment 1
 
 ## Overview
 
